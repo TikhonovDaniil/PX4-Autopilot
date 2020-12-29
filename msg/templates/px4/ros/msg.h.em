@@ -61,7 +61,7 @@ native_type = spec.short_name
 topic_name = spec.short_name
 }@
 
-#pragma once
+#test
 
 @##############################
 @# Generic Includes
